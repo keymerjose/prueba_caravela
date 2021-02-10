@@ -1,5 +1,5 @@
 <?php
-define("TEST", FALSE);
+define("TEST", TRUE);
 define("CANTIDAD_MOSTRAR", 10);
 if(TEST){
     define("URL_BASE", "$_SERVER[DOCUMENT_ROOT]/prueba_caravela/");
