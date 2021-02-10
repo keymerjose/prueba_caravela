@@ -1,0 +1,14 @@
+.logo{
+    margin: 0 auto;
+    display: block;
+}
+
+#formLogin{
+    padding: 10%;
+}
+
+.img-login{
+    background-image: url(../img/img-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

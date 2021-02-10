@@ -1,0 +1,35 @@
+#pestana{
+    background-color: #CDCDCD;
+}
+
+ul{
+    list-style: none;
+    display: block;
+    float: right;
+}
+
+ul li{
+    float: left;
+    margin: 0px 20px;
+}
+
+ul li img{
+    width: 15%;
+}
+
+ul li a{
+    color: #FFF;
+}
+
+#cont-header{
+    background-color: #2370CB;
+    color: #FFF;
+}
+
+.titulo{
+    padding: 0px 100px;
+}
+
+#formSearchUser a{
+    margin-left: 50px;
+}

@@ -1,0 +1,47 @@
+#pestana{
+    background-color: #CDCDCD;
+}
+
+ul{
+    list-style: none;
+    display: block;
+    float: right;
+}
+
+ul li{
+    float: left;
+    margin: 0px 20px;
+}
+
+ul li img{
+    width: 15%;
+}
+
+ul li a{
+    color: #FFF;
+}
+
+#cont-header{
+    /* background-color: #2370CB; */
+    color: #FFF;
+}
+
+body{
+    background-image: url('../../../assets/img/img-3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 80px;
+    margin: 20px 0px 10px 70px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    z-index: 999;
+    background-color: #FFF;
+    width: 100%;
+    padding-top: 10px;
+}
